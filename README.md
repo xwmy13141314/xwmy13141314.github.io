@@ -1,6 +1,6 @@
-# 个人网站 · xwmy13141314
+# 个人网站 · Rocky
 
-独立开发者作品集单页网站。纯静态零依赖：一个 `index.html` + 一个 `assets/` 图片目录。
+Rocky（GitHub [@xwmy13141314](https://github.com/xwmy13141314)）的个人作品集单页网站。纯静态零依赖：一个 `index.html` + 一个 `assets/` 图片目录。
 
 **线上地址：** https://xwmy13141314.github.io/
 
